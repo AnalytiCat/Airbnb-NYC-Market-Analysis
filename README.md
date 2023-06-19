@@ -44,9 +44,9 @@ Repository Structure:
 
 * ProjectCode.py: This directory contains all the Python scripts used for data analysis, including Jupyter notebooks detailing the exploratory data analysis and statistical testing.
 
-* dataset: This directory contains the datasets used in this project.
+* AirbnbDataset.csv: This directory contains the datasets used in this project.
 
-* reports.md: This directory contains the detailed written report explaining the analysis and results, which includes both technical and non-technical insights and a comprehensive set of recommendations.
+* Reports.md: This directory contains the detailed written report explaining the analysis and results, which includes both technical and non-technical insights and a comprehensive set of recommendations.
 
 For a detailed walk-through of the analysis and a comprehensive understanding of the results and recommendations, please refer to the report included in the reports.md directory.
 
